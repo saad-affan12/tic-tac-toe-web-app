@@ -1,23 +1,31 @@
-# PRODIGY_WD_03 – Tic-Tac-Toe Web Application
+# Tic Tac Toe Web Application
 
-This repository contains Task 3 for the Prodigy Infotech Web Development Internship.
-
-## Features
-- Player vs Player mode
-- Player vs Computer mode (AI uses Minimax for optimal play)
-- Automatic win/tie detection
-- Responsive, clean UI
-- Game log for moves, resets, and results
-
-## How to run
-1. Download or clone the repository:
-   ```bash
-   git clone https://github.com/saad-affan12/PRODIGY_WD_03.git
-   ```
-2. Open `index.html` in your browser.
-
-## Live Demo
-Host via GitHub Pages: `https://<your-username>.github.io/PRODIGY_WD_03/`
+A classic Tic Tac Toe game built as a web application using vanilla JavaScript, focusing on game logic, user interaction, and responsive UI design.
 
 ---
-Developed by **Mohammed Saad Affan A.**
+
+## 🚀 Features
+- Two-player gameplay
+- Interactive game board
+- Win and draw detection
+- Game reset functionality
+- Responsive and clean UI
+
+---
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript (game logic & DOM manipulation)
+
+---
+
+## 🔗 Live Demo
+👉 https://saad-affan12.github.io/tic-tac-toe-web-app/
+
+---
+
+## 📂 How to Run Locally
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/saad-affan12/tic-tac-toe-web-app.git
